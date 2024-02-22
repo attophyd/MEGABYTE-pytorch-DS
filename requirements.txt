@@ -1,0 +1,17 @@
+deepspeed==0.9.5
+mpi4py==3.1.4
+MEGABYTE-pytorch==0.2.1
+beartype==0.14.1
+einops>=0.6.1
+torch==2.0.1+cu118
+tqdm==4.65.0
+filelock==3.12.2
+typing-extensions==4.6.3
+sympy==1.11.1
+networkx==3.1
+jinja2==3.1.2
+triton==2.0.0
+cmake==3.25.2
+lit==16.0.6
+MarkupSafe>=2.0
+mpmath>=0.19
